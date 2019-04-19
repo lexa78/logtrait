@@ -1,0 +1,19 @@
+{
+    "name": "lexa78/logtrait",
+    "description": "trait for logging when model updated",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Kalaydov",
+            "email": "akalajdov@mail.ru"
+        }
+    ],
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "lexa78\\logtrait\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
